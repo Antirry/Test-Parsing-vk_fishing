@@ -1,8 +1,10 @@
 ## Тестовое задание по парсингу группы в Вконтакте: "vk_fishing"
 ## Test task to parse Vkontakte group: "vk_fishing"
 
-### Результат находиться в папке ***photo_res***.
-### Result can be found in the ***photo_res*** folder.
+### Результат находиться в папке [***photo_res***](https://github.com/Antirry/Test-Parsing-vk_fishing/tree/master/photo_res).
+### Result can be found in the [***photo_res***](https://github.com/Antirry/Test-Parsing-vk_fishing/tree/master/photo_res) folder.
+
+
 
 Я использовал DBeaver для загрузки CSV файла
 I used DBeaver to upload CSV file   
