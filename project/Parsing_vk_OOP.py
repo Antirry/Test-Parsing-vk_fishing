@@ -34,7 +34,7 @@ class Parsing_Group_VK:
             params = self.params.copy()
             params.update(
                         {
-                            'fields': 'last_seen,contacts,city',
+                            'fields': 'last_seen,contacts,city,bdate',
                             'offset': offset*1000
                         }
             )
