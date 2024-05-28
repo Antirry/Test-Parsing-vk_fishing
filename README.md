@@ -7,7 +7,7 @@
 #### And the query file -> [here](https://github.com/Antirry/Test-Parsing-vk_fishing/blob/master/project/Queries.py).
 
 
-Я использовал DBeaver для загрузки CSV файла
+Я использовал DBeaver для загрузки CSV файла   
 I used DBeaver to upload CSV file   
 https://dbeaver.io/
 
